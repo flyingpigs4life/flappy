@@ -47,7 +47,7 @@ var CONFIG = {
   "pipe": {
     "width": 90,
     "height": 500,
-    "space": 250,
+    "space": 200,
     "offset": 150,
     "speed": 170,
     "interval": 1700 
