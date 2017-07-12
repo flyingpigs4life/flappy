@@ -55,8 +55,8 @@ var CONFIG = {
   "score": {
     "y": 55,
     "style": {
-      "font": "80px sans-serif",
-      "fill": "#fdf6e3"
+      "font": "80px american typewriter",
+      "fill": "purple"
     }
   },
   "highscore": {
@@ -65,7 +65,7 @@ var CONFIG = {
     "key": "skilstak-flappy-highscore",
     "style": {
       "font": "25px american typewriter", 
-      "fill": "maroon",
+      "fill": "purple",
       "align": "center"
     } 
   },
@@ -74,13 +74,13 @@ var CONFIG = {
     "offset": -150,
     "style": {
       "font": "100px american typewriter", 
-      "fill": "maroon",
+      "fill": "purple",
       "align": "center"
     }, 
     "score": {
       "style": {
         "font": "100px american typewriter", 
-        "fill": "maroon",
+        "fill": "purple",
         "align": "center"
       }
     } 
