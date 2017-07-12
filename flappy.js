@@ -64,8 +64,8 @@ var CONFIG = {
     "offset": 250,
     "key": "skilstak-flappy-highscore",
     "style": {
-      "font": "25px sans-serif", 
-      "fill": "#657b83",
+      "font": "25px american typewriter", 
+      "fill": "maroon",
       "align": "center"
     } 
   },
@@ -73,14 +73,14 @@ var CONFIG = {
     "text": "Game\nOver",
     "offset": -150,
     "style": {
-      "font": "100px sans-serif", 
-      "fill": "#b58900",
+      "font": "100px american typewriter", 
+      "fill": "maroon",
       "align": "center"
     }, 
     "score": {
       "style": {
-        "font": "100px sans-serif", 
-        "fill": "#fdf6e3",
+        "font": "100px american typewriter", 
+        "fill": "maroon",
         "align": "center"
       }
     } 
